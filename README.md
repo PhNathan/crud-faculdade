@@ -47,3 +47,12 @@ Feito isto agora inicie o projeto rodando a "Application.java"(localizado em src
 Com isso você terá acesso a aplicação
 
  Caso deseje apenas ver ela em funcionamento, eu hospedei o projeto <a href="http://crud-faculdade.herokuapp.com/projeto-faculdade-crud/" target="_blank">Projeto completo</a>
+
+
+### Imagens do projeto
+## Tela Inicial
+<img src="https://github.com/PhNathan/crud-faculdade/blob/main/ProjetoFinal_top_prog.PNG">
+
+## Tela de pesquisa/Edição e exclusão
+
+<img src="https://github.com/PhNathan/crud-faculdade/blob/main/img2.PNG">
