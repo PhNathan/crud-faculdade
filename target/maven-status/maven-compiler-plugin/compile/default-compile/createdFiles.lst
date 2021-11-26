@@ -1,0 +1,4 @@
+br\com\projeto_faculdade\projeto_faculdade_crud\controllers\GreetingsController.class
+br\com\projeto_faculdade\projeto_faculdade_crud\repository\UsuarioRepository.class
+br\com\projeto_faculdade\projeto_faculdade_crud\Application.class
+br\com\projeto_faculdade\projeto_faculdade_crud\model\Usuario.class
